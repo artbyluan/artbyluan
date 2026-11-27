@@ -1,64 +1,67 @@
 # Luan Rodrigues
 
-**Desenvolvedor Backend Java | Spring Boot | APIs REST**
+**Java Backend Developer | Spring Boot | Microservices | Kafka | SQL | AWS | Spec-Driven Development**
 
-Desenvolvedor de software com mais de cinco anos de experiência em aplicações corporativas, com passagens pela **CI&T, TAKING, Sigma S/A e 10envolve**, atuando em projetos para clientes como Porto Seguro, Eletrobras/Furnas e TCESP.
+I'm a software developer with professional experience at CI&T, Grupo Taking and Sigma, working on insurance, tax and government systems.
 
-Minha experiência está concentrada em desenvolvimento backend com Java, Spring Boot, APIs REST, integração entre sistemas, regras de negócio, persistência de dados e testes automatizados.
+My current focus is Java backend development, REST APIs, databases and distributed systems. I'm also interested in software architecture, application security and Spec-Driven Development (SDD).
 
-## Experiência profissional
+## Professional experience
 
-**CI&T — Desenvolvedor Java**  
-Agosto de 2024 – Agosto de 2026  
-Cliente: Porto Seguro
+### CI&T — Software Developer | Java, Spring Boot
+**Aug 2024 – Aug 2026 · Full-time**
 
-Desenvolvimento e manutenção de serviços backend, integração entre sistemas, persistência com Spring Data JPA e Hibernate, investigação de falhas e testes automatizados com JUnit e Mockito. Atuação com Docker, Kubernetes, SonarQube, Jenkins e Azure Pipelines.
+Worked on Porto Seguro's Corretor Online platform as part of the authentication team, contributing to software development and maintenance.
 
-**TAKING — Desenvolvedor Java e Angular**  
-Fevereiro de 2022 – Agosto de 2024
+[Project: Porto Seguro — Corretor Online](https://corretor.portoseguro.com.br/corretoronline/)
 
-Desenvolvimento e evolução de APIs REST, implementação de regras de negócio e integração com aplicações Angular e TypeScript.
+### Grupo Taking — Software Developer | Java, Spring Boot
+**Oct 2022 – Aug 2024 · Contract**
 
-**Sigma S/A — Desenvolvedor Java e Angular**  
-Outubro de 2022 – Outubro de 2023  
-Clientes: Eletrobras/Furnas e TCESP
+Worked on IOB Online, a platform for tax and accounting professionals.
 
-Desenvolvimento de APIs REST com Spring Boot, ferramentas administrativas e melhorias de acessibilidade seguindo as diretrizes WCAG.
+- Developed tools for Simples Nacional, NCM tax queries and tax simulations.
+- Developed and maintained backend REST APIs and tax business rules.
+- Improved application security metrics using Aikido Security.
 
-**10envolve Design e Comunicação — Desenvolvedor Web Java**  
-2020 – Dezembro de 2021
+[Project: IOB Online](https://iob.com.br/iob-online/)
 
-Desenvolvimento e manutenção de aplicações Java com JSF, implementação de formulários e regras de negócio.
+### Sigma S/A — Java Developer
+**Oct 2022 – Oct 2023 · Full-time**
 
-## Tecnologias
+Worked on backend API development for the mobile application of the São Paulo State Court of Accounts (TCESP).
 
-- **Backend:** Java 11, 17 e 21, Spring Boot, Spring Data JPA, Hibernate, APIs REST e JSF.
-- **Banco de dados e armazenamento:** SQL Server, Redis e Elasticsearch.
-- **Testes e qualidade:** JUnit, Mockito e SonarQube.
-- **DevOps:** Docker, Kubernetes, Jenkins, Azure Pipelines e Azure DevOps.
-- **Frontend:** Angular e TypeScript.
-- **Versionamento:** Git.
+- Developed and maintained backend APIs.
+- Worked on integration between the mobile application and backend services.
 
-## Formação acadêmica
+[Client: TCESP](https://www.tce.sp.gov.br/)
 
-Análise e Desenvolvimento de Sistemas  
-UNIESP Centro Universitário — 2024.
+## Technical focus
 
-## Hobbies e interesses pessoais
+| Area | Technologies and topics |
+| --- | --- |
+| Backend | Java 17/21, Spring Boot, REST APIs, Spring Data JPA, Hibernate |
+| Databases | SQL, PostgreSQL |
+| Distributed systems | Microservices, Apache Kafka, event-driven architecture |
+| Cloud and infrastructure | Docker, AWS, Kubernetes, CI/CD |
+| Testing and security | JUnit, Mockito, application security, Aikido Security |
+| Software engineering | System Design, concurrency, software architecture, Spec-Driven Development |
 
-No meu tempo livre, desenvolvo softwares e jogos independentes
-com C++, estudo computação gráfica, ilustração, anatomia
-estilizada e design de personagens.
+These are my current technical interests and areas of study, as well as technologies from my professional background.
 
-Compartilho meus projetos pessoais, estudos e evolução artística.
+## Education
 
-[![Website](https://img.shields.io/badge/Softwares_e_Jogos-181717?style=flat-square&logo=github&logoColor=white)](https://luanrodrigues.xyz)
-[![Instagram](https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/artbyluan)
-[![TikTok](https://img.shields.io/badge/TikTok-181717?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@artbyluan)
+**Technology Degree in Systems Analysis and Development**  
+UNIESP Centro Universitário — 2024
 
-## Contato profissional
+## Personal projects
 
-Paraíba, Brasil.
+Outside work, I build independent software and games with C++ and study computer graphics and illustration.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanrodrigues-xyz/)
-[![Gmail](https://img.shields.io/badge/E--mail-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:luansantos.dev@gmail.com)
+[Website](https://luanrodrigues.xyz) · [Instagram](https://instagram.com/artbyluan) · [TikTok](https://www.tiktok.com/@artbyluan)
+
+## Contact
+
+Open to Java Backend Developer opportunities in Brazil (remote).
+
+[LinkedIn](https://www.linkedin.com/in/luan-dos-santos-rodrigues-776440447/) · [Email](mailto:luansantos.dev@gmail.com)
